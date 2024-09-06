@@ -76,3 +76,5 @@ If you use environment variables, don’t forget to share them with us along wit
 Don’t forget to set your GitHub repo to public and share it with us.
 
 Happy coding!
+
+Please submit your finished test to [bit.ly/4cWYsiX](https://bit.ly/4cWYsiX)
